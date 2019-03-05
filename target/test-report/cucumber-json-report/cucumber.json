@@ -1,0 +1,87 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 4,
+        "name": "01 Navigate to Kraken website and check that the landing page title",
+        "description": "",
+        "id": "mobile-qa-challenge;01-navigate-to-kraken-website-and-check-that-the-landing-page-title",
+        "after": [
+          {
+            "result": {
+              "duration": 1160156587,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3977146685,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "I am at http://www.kraken.com website",
+            "match": {
+              "arguments": [
+                {
+                  "val": "http://www.kraken.com",
+                  "offset": 8
+                }
+              ],
+              "location": "CommonPageSteps.java:14"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 34972279,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "I obtain the pagetitle",
+            "match": {
+              "location": "CommonPageSteps.java:17"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2902151,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I should be able to see \"Bitcoin \u0026 Cryptocurrency Exchange | Bitcoin Trading Platform | Kraken\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Bitcoin \u0026 Cryptocurrency Exchange | Bitcoin Trading Platform | Kraken",
+                  "offset": 25
+                }
+              ],
+              "location": "CommonPageSteps.java:21"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@test"
+          }
+        ]
+      }
+    ],
+    "name": "Mobile QA Challenge",
+    "description": "",
+    "id": "mobile-qa-challenge",
+    "keyword": "Feature",
+    "uri": "classpath:features/mobileqachallenge.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="5.17866">
+<testcase classname="Mobile QA Challenge" name="01 Navigate to Kraken website and check that the landing page title" time="5.17866">
+<system-out><![CDATA[Given I am at http://www.kraken.com website.................................passed
+When I obtain the pagetitle.................................................passed
+Then I should be able to see "Bitcoin & Cryptocurrency Exchange | Bitcoin Trading Platform | Kraken".passed
+]]></system-out>
+</testcase>
+</testsuite>

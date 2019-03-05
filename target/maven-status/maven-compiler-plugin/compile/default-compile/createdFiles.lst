@@ -1,0 +1,6 @@
+pageobjects\Hooks.class
+pageobjects\DriverRegistry.class
+pageobjects\KrakenLandingPage.class
+util\PropertyReader.class
+pageobjects\BasePage.class
+stepdefinitions\CommonPageSteps.class
