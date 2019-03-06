@@ -14,11 +14,11 @@ public class CommonPageSteps implements En {
         Given("^I am at (.*) website$", (String url) -> {
             basePage.openURLAddress(url);
         });
-        When("^I obtain the pagetitle$", () -> {
+        When("^I obtain the page title$", () -> {
             pageTitle = null;
             pageTitle = basePage.getPageTitle();
         });
-        Then("^I should be able to see \"([^\"]*)\"$", (String title) -> {
+        Then("^I should be able to see \"([^\"]*)\" as the page title$", (String title) -> {
             Assert.assertEquals(title, pageTitle);
         });
     }

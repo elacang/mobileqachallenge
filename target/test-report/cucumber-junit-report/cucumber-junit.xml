@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="5.17866">
-<testcase classname="Mobile QA Challenge" name="01 Navigate to Kraken website and check that the landing page title" time="5.17866">
-<system-out><![CDATA[Given I am at http://www.kraken.com website.................................passed
-When I obtain the pagetitle.................................................passed
-Then I should be able to see "Bitcoin & Cryptocurrency Exchange | Bitcoin Trading Platform | Kraken".passed
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="9.20786">
+<testcase classname="Mobile QA Challenge" name="04 Select &quot;Digtal Music&quot; department from Amazon website" time="9.20786">
+<system-out><![CDATA[Given I am at http://www.amazon.com website.................................passed
+When I navigate to "Digital Music" department from the menu.................passed
+And I obtain the page title.................................................passed
+Then I should be able to see "Amazon.com: Digital Music" as the page title..passed
 ]]></system-out>
 </testcase>
 </testsuite>

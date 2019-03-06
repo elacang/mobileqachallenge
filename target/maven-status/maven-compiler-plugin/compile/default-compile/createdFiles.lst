@@ -1,6 +1,13 @@
-pageobjects\Hooks.class
 pageobjects\DriverRegistry.class
 pageobjects\KrakenLandingPage.class
-util\PropertyReader.class
+stepdefinitions\W3SchoolsHTMLTablePageSteps.class
+stepdefinitions\KrakenCreateAccountPageSteps.class
+pageobjects\AmazonPage.class
 pageobjects\BasePage.class
+pageobjects\Hooks.class
+util\PropertyReader.class
+pageobjects\W3SchoolsHTMLTablePage.class
+pageobjects\KrakenCreateAccountPage.class
 stepdefinitions\CommonPageSteps.class
+stepdefinitions\AmazonPageSteps.class
+stepdefinitions\KrakenLandingPageSteps.class

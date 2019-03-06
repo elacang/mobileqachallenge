@@ -18,3 +18,78 @@
 [06-03-19 12:07] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
 [06-03-19 12:07] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
 [06-03-19 12:07] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 16:41] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 16:41] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[06-03-19 16:41] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
+[06-03-19 16:41] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
+[06-03-19 16:41] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 16:41] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 16:41] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 16:41] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (b5ed039f431afacae4339a66073ed868)] -> xpath: //a[@class='kraken-cta' and text()='Create Account']]
+[06-03-19 16:41] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (b5ed039f431afacae4339a66073ed868)] -> xpath: //a[@class='kraken-cta' and text()='Create Account']]
+[06-03-19 16:44] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 16:44] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[06-03-19 16:44] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
+[06-03-19 16:44] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
+[06-03-19 16:44] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 16:44] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 16:44] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 16:44] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (a8970ff2a4cb0385758e1aa22061c367)] -> xpath: //a[@class='kraken-cta' and text()='Create Account']]
+[06-03-19 16:44] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (a8970ff2a4cb0385758e1aa22061c367)] -> xpath: //a[@class='kraken-cta' and text()='Create Account']]
+[06-03-19 16:47] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 16:47] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[06-03-19 16:47] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
+[06-03-19 16:47] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
+[06-03-19 16:47] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 16:47] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (e665d2f5b7764629fa28afdadfd9e1e6)] -> xpath: //a[@class='kraken-cta' and text()='Create Account']]
+[06-03-19 16:47] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (e665d2f5b7764629fa28afdadfd9e1e6)] -> xpath: //a[@class='kraken-cta' and text()='Create Account']]
+[06-03-19 16:54] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 16:54] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[06-03-19 16:54] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
+[06-03-19 16:54] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
+[06-03-19 16:54] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 16:54] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (bdd1c87915b34133c6715c09e3eaff80)] -> xpath: //a[contains(text(), 'Prices')]]
+[06-03-19 16:54] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (bdd1c87915b34133c6715c09e3eaff80)] -> xpath: //a[contains(text(), 'Prices')]]
+[06-03-19 17:31] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 17:31] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[06-03-19 17:31] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
+[06-03-19 17:31] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
+[06-03-19 17:31] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 17:53] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 17:53] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[06-03-19 17:53] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
+[06-03-19 17:53] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
+[06-03-19 17:53] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 17:53] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 17:53] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[06-03-19 17:53] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
+[06-03-19 17:53] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
+[06-03-19 17:53] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 17:54] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (ac97af22eb71e9421464d8bb651bd68b)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:54] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (ac97af22eb71e9421464d8bb651bd68b)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:54] - pageobjects.BasePage - INFO - mouseover to element: [[ChromeDriver: chrome on XP (ac97af22eb71e9421464d8bb651bd68b)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:54] - pageobjects.BasePage - INFO - Focused to element: [[ChromeDriver: chrome on XP (ac97af22eb71e9421464d8bb651bd68b)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:54] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (ac97af22eb71e9421464d8bb651bd68b)] -> css selector: #nav-flyout-shopAll>*>a]
+[06-03-19 17:54] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (ac97af22eb71e9421464d8bb651bd68b)] -> css selector: #nav-flyout-shopAll>*>a]
+[06-03-19 17:54] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 17:54] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[06-03-19 17:54] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
+[06-03-19 17:54] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
+[06-03-19 17:54] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 17:55] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (213b85decab0090cfc0631dd7cfadf10)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:55] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (213b85decab0090cfc0631dd7cfadf10)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:55] - pageobjects.BasePage - INFO - mouseover to element: [[ChromeDriver: chrome on XP (213b85decab0090cfc0631dd7cfadf10)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:55] - pageobjects.BasePage - INFO - Focused to element: [[ChromeDriver: chrome on XP (213b85decab0090cfc0631dd7cfadf10)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:55] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (213b85decab0090cfc0631dd7cfadf10)] -> css selector: #nav-flyout-shopAll>*>a]
+[06-03-19 17:55] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (213b85decab0090cfc0631dd7cfadf10)] -> css selector: #nav-flyout-shopAll>*>a]
+[06-03-19 17:56] - io.github.bonigarcia.wdm.WebDriverManager - WARN - The driver version for Google Chrome 72 is unknown ... trying with latest
+[06-03-19 17:56] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Reading https://chromedriver.storage.googleapis.com/ to seek chromedriver
+[06-03-19 17:56] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Latest version of chromedriver is 73.0.3683.20
+[06-03-19 17:56] - io.github.bonigarcia.wdm.Downloader - INFO - Using binary driver previously downloaded
+[06-03-19 17:56] - io.github.bonigarcia.wdm.WebDriverManager - INFO - Exporting webdriver.chrome.driver as C:\Users\eiroll\.m2\repository\webdriver\chromedriver\win32\73.0.3683.20\chromedriver.exe
+[06-03-19 17:56] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (419533b055b3e8656539125b551ef94f)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:56] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (419533b055b3e8656539125b551ef94f)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:56] - pageobjects.BasePage - INFO - mouseover to element: [[ChromeDriver: chrome on XP (419533b055b3e8656539125b551ef94f)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:56] - pageobjects.BasePage - INFO - Focused to element: [[ChromeDriver: chrome on XP (419533b055b3e8656539125b551ef94f)] -> xpath: //span[@class='nav-line-2' and contains(text(), 'Departments')]]
+[06-03-19 17:56] - pageobjects.BasePage - INFO - Waiting for element: [[ChromeDriver: chrome on XP (419533b055b3e8656539125b551ef94f)] -> css selector: #nav-flyout-shopAll>*>a]
+[06-03-19 17:56] - pageobjects.BasePage - INFO - Element found: [[ChromeDriver: chrome on XP (419533b055b3e8656539125b551ef94f)] -> css selector: #nav-flyout-shopAll>*>a]

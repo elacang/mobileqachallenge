@@ -3,14 +3,14 @@
     "line": 1,
     "elements": [
       {
-        "line": 4,
-        "name": "01 Navigate to Kraken website and check that the landing page title",
+        "line": 27,
+        "name": "04 Select \"Digtal Music\" department from Amazon website",
         "description": "",
-        "id": "mobile-qa-challenge;01-navigate-to-kraken-website-and-check-that-the-landing-page-title",
+        "id": "mobile-qa-challenge;04-select-\"digtal-music\"-department-from-amazon-website",
         "after": [
           {
             "result": {
-              "duration": 1160156587,
+              "duration": 1147510335,
               "status": "passed"
             },
             "match": {
@@ -23,15 +23,15 @@
         "steps": [
           {
             "result": {
-              "duration": 3977146685,
+              "duration": 2916584513,
               "status": "passed"
             },
-            "line": 5,
-            "name": "I am at http://www.kraken.com website",
+            "line": 28,
+            "name": "I am at http://www.amazon.com website",
             "match": {
               "arguments": [
                 {
-                  "val": "http://www.kraken.com",
+                  "val": "http://www.amazon.com",
                   "offset": 8
                 }
               ],
@@ -41,27 +41,45 @@
           },
           {
             "result": {
-              "duration": 34972279,
+              "duration": 5021766180,
               "status": "passed"
             },
-            "line": 6,
-            "name": "I obtain the pagetitle",
+            "line": 29,
+            "name": "I navigate to \"Digital Music\" department from the menu",
             "match": {
-              "location": "CommonPageSteps.java:17"
+              "arguments": [
+                {
+                  "val": "Digital Music",
+                  "offset": 15
+                }
+              ],
+              "location": "AmazonPageSteps.java:13"
             },
             "keyword": "When "
           },
           {
             "result": {
-              "duration": 2902151,
+              "duration": 113096755,
               "status": "passed"
             },
-            "line": 7,
-            "name": "I should be able to see \"Bitcoin \u0026 Cryptocurrency Exchange | Bitcoin Trading Platform | Kraken\"",
+            "line": 30,
+            "name": "I obtain the page title",
+            "match": {
+              "location": "CommonPageSteps.java:17"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2711388,
+              "status": "passed"
+            },
+            "line": 31,
+            "name": "I should be able to see \"Amazon.com: Digital Music\" as the page title",
             "match": {
               "arguments": [
                 {
-                  "val": "Bitcoin \u0026 Cryptocurrency Exchange | Bitcoin Trading Platform | Kraken",
+                  "val": "Amazon.com: Digital Music",
                   "offset": 25
                 }
               ],

@@ -5,7 +5,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.scenario({
-  "name": "01 Navigate to Kraken website and check that the landing page title",
+  "name": "04 Select \"Digtal Music\" department from Amazon website",
   "description": "",
   "keyword": "Scenario",
   "tags": [
@@ -15,7 +15,7 @@ formatter.scenario({
   ]
 });
 formatter.step({
-  "name": "I am at http://www.kraken.com website",
+  "name": "I am at http://www.amazon.com website",
   "keyword": "Given "
 });
 formatter.match({
@@ -25,8 +25,18 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "I obtain the pagetitle",
+  "name": "I navigate to \"Digital Music\" department from the menu",
   "keyword": "When "
+});
+formatter.match({
+  "location": "AmazonPageSteps.java:13"
+});
+formatter.result({
+  "status": "passed"
+});
+formatter.step({
+  "name": "I obtain the page title",
+  "keyword": "And "
 });
 formatter.match({
   "location": "CommonPageSteps.java:17"
@@ -35,7 +45,7 @@ formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "I should be able to see \"Bitcoin \u0026 Cryptocurrency Exchange | Bitcoin Trading Platform | Kraken\"",
+  "name": "I should be able to see \"Amazon.com: Digital Music\" as the page title",
   "keyword": "Then "
 });
 formatter.match({
